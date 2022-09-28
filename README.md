@@ -21,7 +21,7 @@ so to be warned)
  🔴 Purpose of my github page:
 
 archive stuff i made related to programming
-unless i am in a midly big project for
+unless i am in a mildly big project for
 some reason. in which it will actually
 serve real purposes
 
