@@ -17,6 +17,21 @@ that for the time being.
 
 (note that i do not frequent often my mails
 so to be warned)
+
+ 🔴 Purpose of my github page:
+
+archive stuff i made related to programming
+unless i am in a midly big project for
+some reason. in which it will actually
+serve real purposes
+
+yea thats it 
+
+ 🔵 what can you find here
+
+oneshots (e.g: sm64coop mods)
+and old/abandoned projets
+
 <!---
 Blooshysaur/Blooshysaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
