@@ -1,7 +1,7 @@
  👋 hi, blooshy here
 
 
- 👀 I’m interested in gamedev, and other
+ 🗿 I’m interested in gamedev, and other
 things that doesn't fit here.
 
 
@@ -21,16 +21,14 @@ so to be warned)
  🔴 Purpose of my github page:
 
 archive stuff i made related to programming
-unless i am in a mildly big project for
-some reason. in which it will actually
-serve real purposes
+in some way or another
 
 yea thats it 
 
  🔵 what can you find here
 
 oneshots (e.g: sm64coop mods)
-and old/abandoned projets
+old/abandoned projets
 
 <!---
 Blooshysaur/Blooshysaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
