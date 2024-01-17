@@ -1,13 +1,11 @@
  👋 hi, blooshy here
 <br>
 <br>
- 🗿 I’m interested in gamedev, and other
-things that doesn't fit here.
+ 🗿 I do developement from time to time and I do art sometimes
 <br>
 <br>
- 🌱 been learning GML and a bit of Python
-and Lua although I've taken a break on
-that for the time being.
+ 🌱 Learned GML and Lua for personal projects (though I don't use them much anymore)
+ Mainly uses Python and HTML/CSS as of 17th of January 2024
 <br>
 
  📫 Social Links:
@@ -31,7 +29,9 @@ yea thats it
 
 oneshots (e.g: sm64coop mods)
 <br>
-old/abandoned projets
+old/abandoned projects
+<br>
+and more stuff.
 
 <!---
 Blooshysaur/Blooshysaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
