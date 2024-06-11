@@ -1,37 +1,19 @@
- 👋 hi, blooshy here
+hi, I do dev and art stuff when i feel like it.
 <br>
 <br>
- 🗿 I do developement from time to time and I do art sometimes
-<br>
-<br>
- 🌱 Learned GML and Lua for personal projects (though I don't use them much anymore)
- Mainly uses Python and HTML/CSS as of 17th of January 2024
+ 🌱 Can do GML and lua, although I'm more experienced with python.
 <br>
 
- 📫 Social Links:
+ 📫 Social:
 - Twitter: blooshythethird
 - Discord: blooshy#4862
-- email  : blooshysaur@gmail.com
-
-(note that i do not frequent often my mails
-so to be warned)
-<br>
+- email  : blooshysaur@gmail.com (i don't check 'em often)
 <br>
  🔴 Purpose of my github page:
 
 archive stuff i made related to programming
 in some way or another
 
-yea thats it 
-<br>
-<br>
- 🔵 what can you find here
-
-oneshots (e.g: sm64coop mods)
-<br>
-old/abandoned projects
-<br>
-and more stuff.
 
 <!---
 Blooshysaur/Blooshysaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
