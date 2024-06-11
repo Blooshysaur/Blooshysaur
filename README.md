@@ -14,6 +14,8 @@ hi, I do dev and art stuff when i feel like it.
 archive stuff i made related to programming
 in some way or another
 <br>
+<br>
+<br>
 I don't use github much
 
 <!---
